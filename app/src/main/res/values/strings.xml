@@ -1,0 +1,184 @@
+<resources>
+    <string name="app_name">AfriQuiz</string>
+
+    <!--Text for Title bar -->
+    <string name="title">Title</string>
+    <!-- Placeholder Text for Time bar -->
+    <string name="time">00:00</string>
+
+    <!-- Status text for correctly answered questions-->
+    <string name="correct">Correct</string>
+
+    <!-- Status text for wrongly answered questions-->
+    <string name="wrong">Wrong</string>
+
+    <!-- Status text1 for score dashboard answered questions-->
+    <string name="goodResult1">Congratulations !!!\nYou passed the quiz ! \nYour Score is</string>
+    <string name="goodResult2">%. </string>
+
+    <!-- Status text1 for score dashboard answered questions-->
+    <string name="badResult1">Sorry !\nYou fail the quiz ! \nYour Score is</string>
+    <string name="badResult2">%. \nTry again. </string>
+
+
+    <!-- Hint text for EditView Question one answer input-->
+    <string name="zero">0</string>
+
+    <!-- Hint text for EditView answer input-->
+    <string name="questionHint">Enter your answer</string>
+
+
+    <!--Text for question one -->
+    <string name="questionOne">The African languages are divided into how many major languages</string>
+
+    <!--Text for question one, Answer-->
+    <string name="questionOneAnswer">6</string>
+
+
+    <!--Text for question two -->
+    <string name="questionTwo">Afroasiastic languages are languages that spread throughout &#8230; </string>
+
+    <!--Text for question two, option A-->
+    <string name="questionTwoOptionA">The horn of Africa and part of Sahel</string>
+
+    <!--Text for question two, option B-->
+    <string name="questionTwoOptionB">The horn of Africa and part of Guinea</string>
+
+    <!--Text for question two, option C-->
+    <string name="questionTwoOptionC">Northern Asia and part of North Africa</string>
+
+    <!--Text for question two, option D-->
+    <string name="questionTwoOptionD">Western Asia and North Africa</string>
+
+
+    <!--Text for question three-->
+    <string name="questionThree">Africa\'s largest country by area is?</string>
+
+    <!--Text for question Three, option A-->
+    <string name="questionThreeOptionA">Congo</string>
+
+    <!--Text for question Three, option B-->
+    <string name="questionThreeOptionB">Libya</string>
+
+    <!--Text for question Three, option C-->
+    <string name="questionThreeOptionC">Algeria</string>
+
+    <!--Text for question Three, option D-->
+    <string name="questionThreeOptionD">Sudan</string>
+
+
+
+
+    <!--Text for question four -->
+    <string name="questionFour">Which of this country is the most Populated?</string>
+
+    <!--Text for question Four, option A-->
+    <string name="questionFourOptionA">Nigeria</string>
+
+    <!--Text for question Four, option B-->
+    <string name="questionFourOptionB">Ethiopia</string>
+
+    <!--Text for question Four, option C-->
+    <string name="questionFourOptionC">Egypt</string>
+
+    <!--Text for question Four, option D-->
+    <string name="questionFourOptionD">Angola</string>
+
+
+    <!--Text for question five -->
+    <string name="questionFive">Niger-Congo languages covers which of the following region?</string>
+
+    <!--Text for question Five, option A-->
+    <string name="questionFiveOptionA">North and Central Africa</string>
+
+    <!--Text for question Five, option B-->
+    <string name="questionFiveOptionB">West and Southern Africa</string>
+
+    <!--Text for question Five, option C-->
+    <string name="questionFiveOptionC">Central and Southeast Africa</string>
+
+    <!--Text for question Five, option D-->
+    <string name="questionFiveOptionD">Southern and East Africa</string>
+
+
+    <!--Text for question six-->
+    <string name="questionSix">Most Africa\’s popular tourist destination is?</string>
+
+    <!--Text for question Six, option A-->
+    <string name="questionSixOptionA">Cairo</string>
+
+    <!--Text for question Six, option B-->
+    <string name="questionSixOptionB">Egypt</string>
+
+    <!--Text for question Six, option C-->
+    <string name="questionSixOptionC">Libya</string>
+
+    <!--Text for question Six, option D-->
+    <string name="questionSixOptionD">Congo</string>
+
+
+    <!--Text for question seven -->
+    <string name="questionSeven">The longest river in Africa is?</string>
+
+    <!--Text for question Seven, option A-->
+    <string name="questionSevenOptionA">Zambezi</string>
+
+    <!--Text for question Seven, option B-->
+    <string name="questionSevenOptionB">Niger River</string>
+
+    <!--Text for question Seven, option C-->
+    <string name="questionSevenOptionC">Congo River</string>
+
+    <!--Text for question Seven, option D-->
+    <string name="questionSevenOptionD">Nile River</string>
+
+
+    <!--Text for question eight-->
+    <string name="questionEight">Which of this country is the smallest in Africa?</string>
+
+    <!--Text for question Eight, option A-->
+    <string name="questionEightOptionA">Cape Verde</string>
+
+    <!--Text for question Eight, option B-->
+    <string name="questionEightOptionB">Seychelles</string>
+
+    <!--Text for question Eight, option C-->
+    <string name="questionEightOptionC">Gambia</string>
+
+    <!--Text for question Eight, option D-->
+    <string name="questionEightOptionD">Rwanda</string>
+
+
+    <!--Text for question nine-->
+    <string name="questionNine">The most widely spoken language in Africa</string>
+
+    <!--Text for question Nine, option A-->
+    <string name="questionNineAnswer">Arabic</string>
+
+
+
+    <!--Text for question ten -->
+    <string name="questionTen">The largest city in Africa by population is</string>
+
+    <!--Text for question Ten, option A-->
+    <string name="questionTenOptionA">Johannesburg</string>
+
+    <!--Text for question Ten, option B-->
+    <string name="questionTenOptionB">Ibadan</string>
+
+    <!--Text for question Ten, option C-->
+    <string name="questionTenOptionC">Lagos</string>
+
+    <!--Text for question Ten, option D-->
+    <string name="questionTenOptionD">Cairo</string>
+
+    <!--Text for Control panel - Submit and Reset button -->
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+
+    <!--Text for Score Dashboard Header -->
+    <string name="score_dashboard">Score Dashboard</string>
+
+
+
+</resources>
