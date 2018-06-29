@@ -12,7 +12,7 @@
         <!-- Background color of buttons in the app -->
         <item name="colorButtonNormal">@color/accent</item>
 
-        <item name="android:textViewStyle"> @color/secondary_text</item>
+
     </style>
 
 </resources>
