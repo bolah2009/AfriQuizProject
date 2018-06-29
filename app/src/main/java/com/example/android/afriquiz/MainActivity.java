@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     public void submitAnswer(View view) {
         int Score = 0;
         //Conditional statement to check if the answer is correct, displays "Correct" if correct and
-        //"Wrong" if wrong in each Question section
+        //"Wrong" if wrong in each Question section using the displayStatus() method
 
         if (checkQuestionOneAnswer()) {
             Score += 10;
@@ -115,14 +115,14 @@ public class MainActivity extends AppCompatActivity {
 
         }
 
-
+        // Conditional statement to construct a Toast message if overall answer submitted up to the past mark (70%) or not
+        // This also changes the border of the view group of the submit button
         if (Score >= 70) {
 
             String message = getString(R.string.goodResult1) + " " + Score;
             message += getString(R.string.goodResult2);
             Toast.makeText(getApplicationContext(), message, Toast.LENGTH_SHORT).show();
             formatCorrectBorder(findViewById(R.id.submit_button_border));
-
 
         } else {
             String message = getString(R.string.badResult1) + " " + Score;
@@ -131,15 +131,19 @@ public class MainActivity extends AppCompatActivity {
             formatWrongBorder(findViewById(R.id.submit_button_border));
         }
 
-
     }
 
-
+    /**
+     * Method displays status of answered question if correct or wrong
+     */
     private void displayStatus(String text, View statusID) {
         TextView statusTextView = (TextView) statusID;
         statusTextView.setText(text);
     }
 
+    /**
+     * Method re-format submit button container view when question is correct
+     */
     private void formatCorrectBorder(View viewID) {
         Resources res = getResources();
         Drawable shape = res.getDrawable(R.drawable.border_correct);
@@ -148,7 +152,9 @@ public class MainActivity extends AppCompatActivity {
         tv.setBackground(shape);
     }
 
-
+    /**
+     * Method re-format submit button container view when question is wrong
+     */
     private void formatWrongBorder(View viewID) {
         Resources res = getResources();
         Drawable shape = res.getDrawable(R.drawable.border_wrong);
