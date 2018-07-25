@@ -20,10 +20,10 @@ ScreenShot of Quiz App
 <table>
     <tr>
         <td>
-            <img alt="AfriQuiz Screenshot 1" src="app/src/main/res/drawable/AfriQuiz1.jpeg">
+            <img alt="AfriQuiz Screenshot 1" src="app/src/main/res/drawable/afriquiz1.jpeg">
         </td>
         <td>
-            <img alt="AfriQuiz Screenshot 1" src="app/src/main/res/drawable/AfriQuiz2.jpeg">
+            <img alt="AfriQuiz Screenshot 1" src="app/src/main/res/drawable/afriquiz2.jpeg">
         </td>
     </tr>
 </table>
