@@ -28,9 +28,9 @@ ScreenShot of Quiz App
     </tr>
 </table>
 
-Google Drive App Apk Download Link: copy and paste this link (https://drive.google.com/open?id=1WlYjSRKna07Xlt9R0jLQIaDjsb19u8U1) or click on the link below:
+Google Drive App Apk Download Link: copy and paste this link (https://drive.google.com/open?id=1WlYjSRKna07Xlt9R0jLQIaDjsb19u8U1) or click [here](https://drive.google.com/open?id=1WlYjSRKna07Xlt9R0jLQIaDjsb19u8U1).
 ------------------------------------------------------------------------------------------------------------------------------
-## [Click Here](https://drive.google.com/open?id=1WlYjSRKna07Xlt9R0jLQIaDjsb19u8U1) to dowload the app.
+## [Click Here](https://play.google.com/store/apps/details?id=com.bolaah.afriquiz) to dowload the app on Google Play.
 
 
 
